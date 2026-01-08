@@ -1,0 +1,22 @@
+# Natural Nagas - Robots.txt
+# Conservation Initiative | Nagaland Wildlife Protection
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.naturalnagas.org/sitemap.xml
+
+# Allow crawling of all pages
+Allow: /about
+Allow: /programs
+Allow: /events
+Allow: /publications
+Allow: /impact
+Allow: /gallery
+Allow: /get-involved
+Allow: /contact
+Allow: /faq
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
